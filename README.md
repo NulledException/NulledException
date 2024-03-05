@@ -1,6 +1,6 @@
 # Resumo
 
-Desenvolvedor Full Stack Pleno com quase 4 anos de experiência, atualmente na HOS Sistemas de Informática, especializado em diversas tecnologias como AWS, NodeJS, Oracle APEX, PL/SQL, entre outras. Com um histórico comprovado em projetos desafiadores, domino tanto o frontend quanto o backend, garantindo uma visão completa dos projetos. Expert em ReactJS e Flutter para aplicações web e móveis, além de sólidos conhecimentos em bancos de dados como Oracle Database e PostgreSQL. Minha paixão pelo desenvolvimento de software e habilidade em enfrentar desafios complexos impulsionam meu constante crescimento profissional. Busco contribuir significativamente para o sucesso de novos projetos na área de desenvolvimento de software.
+Desenvolvedor Full Stack Pleno com mais de 4 anos de experiência, atualmente na HOS Sistemas de Informática, especializado em diversas tecnologias como AWS, NodeJS, Oracle APEX, PL/SQL, entre outras. Com um histórico comprovado em projetos desafiadores, domino tanto o frontend quanto o backend, garantindo uma visão completa dos projetos. Expert em ReactJS e Flutter para aplicações web e móveis, além de sólidos conhecimentos em bancos de dados como Oracle Database e PostgreSQL. Minha paixão pelo desenvolvimento de software e habilidade em enfrentar desafios complexos impulsionam meu constante crescimento profissional. Busco contribuir significativamente para o sucesso de novos projetos na área de desenvolvimento de software.
 
 ## Linguagens mais utilizadas
 
