@@ -8,4 +8,4 @@ Desenvolvedor Full Stack Pleno com mais de 6 anos de experiência, atualmente na
 
 ## Outros Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NulledException&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NulledException&theme=bear&background=000&border=30A3DC&dates=FFF)
