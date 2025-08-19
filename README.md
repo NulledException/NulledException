@@ -4,7 +4,7 @@ Desenvolvedor Full Stack com mais de 6 anos de experiência, atualmente na Not D
 
 ## Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NulledException&bg_color=000&border_color=30A3DC&title_color=E94D5F&hide_title=true&layout=compact&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NulledException&bg_color=000&border_color=30A3DC&title_color=E94D5F&hide_title=true&layout=compact&text_color=FFF)
 
 ## Outros Stats
 
